@@ -9,6 +9,9 @@
 # Call the optimization script
 ./optimize_png.sh
 
+# Call the rename script
+./rename.sh
+
 echo "----------------------------------------------------------------"
 echo "All process completed."
 echo "----------------------------------------------------------------"
